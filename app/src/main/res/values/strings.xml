@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectToast</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="tLogin">LOGIN</string>
+    <string name="var1">ini pesan</string>
+    <string name="tData">Muhammad Altaf Dasril</string>
+    <string name="tEmail">Email: </string>
+    <string name="tPassword">Password: </string>
+    <string name="txemail">altaf@gmail.com</string>
+    <string name="txpassword">altaf</string>
+    <string name="label2">Login Sukses</string>
+</resources>
